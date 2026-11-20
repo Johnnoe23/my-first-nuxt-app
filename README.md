@@ -18,13 +18,13 @@ Both pages share the same header and footer, and you can move between them using
 ## Screenshots
 
 ### Homepage
-![Homepage](screenshots/homepage.png)
+![Homepage](screenshots/Homepage.png)
 
 ### Profile Page
-![Profile Page](screenshots/profile-page.png)
+![Profile Page](screenshots/Profile-page.png)
 
 ### Project Folder Structure
-![Folder Structure](screenshots/folder-structure.png)
+![Folder Structure](screenshots/Folder-Structure.png)
 
 ## Technologies Used
 
