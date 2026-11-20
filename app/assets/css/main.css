@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Our one custom bit of CSS: a friendly font and smooth anchor scrolling */
+html {
+  scroll-behavior: smooth;
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
